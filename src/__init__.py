@@ -1,0 +1,2 @@
+"""Math OCR project package."""
+
